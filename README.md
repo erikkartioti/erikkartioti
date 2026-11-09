@@ -49,10 +49,4 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikkartioti&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-## 📫 Contacts
 
-<p>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=flat-square" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
-</p>
