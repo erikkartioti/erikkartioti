@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=ML+engineer;Fullstack+developer;NLP+%26+deception+detection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=480&lines=ML+engineer;Fullstack+developer;NLP+%26+deception+detection" alt="Typing SVG" />
 </p>
 
 <p align="center">
