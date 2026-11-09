@@ -38,7 +38,7 @@
 |---|---|---|
 | [in_text_deception_classification](https://github.com/erikkartioti/in_text_deception_classification) | Master's thesis: detecting deception in a single writing style via Hancock / DeSanto / LIWC-style lexical features, CatBoost and ruBERT | Python, CatBoost, spaCy, ruBERT |
 | [linguistic_model_react_frontend](https://github.com/erikkartioti/linguistic_model_react_frontend) | Frontend draft for the linguistic lie-marker detection model | JavaScript, React |
-| [event_agregator_vld](https://github.com/erikkartioti/event_agregator_vld) | City events aggregator on a map: scheduled parsers, DB cleanup, vector tiles | Spring Boot, JPA, React, Docker |
+| [event_agregator_vld](https://github.com/erikkartioti/event_agregator_vld) | City events aggregator on a map: scheduled parsers, DB cleanup, vector tiles | Spring Boot, JPA, React, Docker, LLM assistant, ETL AI support, tile-server |
 | [LCMG_RU_parser](https://github.com/erikkartioti/LCMG_RU_parser) | Left-corner parser for minimalist grammars; counts Merge/Move for Russian sentences | Scala 3 |
 | [YMPD](https://github.com/erikkartioti/YMPD) | Yandex Music playlist digger: finds and downloads lossless tracks via slskd | Python |
 
