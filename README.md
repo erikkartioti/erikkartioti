@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About me
 
-- 🎓 Master's student working on **lie/truth detection in text** using linguistic markers
+- 🎓 Master's student at NCIMM working on **lie/truth detection in text** using linguistic markers
 - 🔬 Interested in NLP, computational linguistics and applied ML
 - 🛠️ Also build fullstack apps: backend, parsers, frontend, Docker
 - 📫 Open to internships in Python / ML / frontend / Scala
